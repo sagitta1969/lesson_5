@@ -1,0 +1,5 @@
+smit 25000
+alex 30000
+bob 18000
+jon 15000
+svift 20000
